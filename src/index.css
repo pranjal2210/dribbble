@@ -1,0 +1,36 @@
+@import '../node_modules/slick-carousel/slick/slick.css';
+@import '../node_modules/slick-carousel/slick/slick-theme.css';
+
+
+/* styles.css */
+@font-face {
+  font-family: 'Mona-Sans';
+  src: url('../src/fonts/Mona-Sans.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'source-serif-4';
+  src: url('../src/fonts/source-serif-4.woff2') format('woff2');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  overflow-x: hidden;
+}
+
+.slick-list{
+  padding-top: 14px;
+  padding-bottom: 30px;
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

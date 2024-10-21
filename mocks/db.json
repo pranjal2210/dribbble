@@ -1,0 +1,885 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "name": "Helen Tran",
+      "tags": [
+        "Leadership",
+        "Product",
+        "UX"
+      ],
+      "designation": "Lead Product Designer",
+      "image": "https://cdn.dribbble.com/uploads/47181/original/1e3a73a174484bef522b620c401cd00a.mp4?1685645427"
+    },
+    {
+      "id": "2",
+      "name": "Victa Wille",
+      "tags": [
+        "Web",
+        "Ui",
+        "Mobile"
+      ],
+      "designation": "Digital Designer",
+      "image": "https://cdn.dribbble.com/uploads/47175/original/1fb34610061a95a007ac5e7b1dc53138.jpeg?1685645183&format=webp&resize=546x680&vertical=center"
+    },
+    {
+      "id": "3",
+      "name": "Elif Kamesoglu",
+      "tags": [
+        "Brand",
+        "Illustration",
+        "Web"
+      ],
+      "designation": "Brand Designer",
+      "image": "https://cdn.dribbble.com/uploads/47176/original/9b22cd83bde1809976bec0722d1f8923.jpeg?1685645213&format=webp&resize=546x680&vertical=center"
+    },
+    {
+      "id": "4",
+      "name": "Chris Owens",
+      "tags": [
+        "Illustration",
+        "Mobile",
+        "UI"
+      ],
+      "designation": "Creative Director",
+      "image": "https://cdn.dribbble.com/uploads/47177/original/3986915be548424a5d36657f2b034ead.jpeg?1685645250&format=webp&resize=546x680&vertical=center"
+    },
+    {
+      "id": "5",
+      "name": "Vladimir Gruev",
+      "tags": [
+        "Brand",
+        "Design"
+      ],
+      "designation": "Digital Designer",
+      "image": "https://cdn.dribbble.com/uploads/47173/original/Vladimir_Gruev.png?1689174896&format=webp&resize=546x680&vertical=center"
+    },
+    {
+      "id": "6",
+      "name": "Jesse Showalter",
+      "tags": [
+        "UI",
+        "Web",
+        "Mobile"
+      ],
+      "designation": "Design Educator",
+      "image": "https://cdn.dribbble.com/uploads/47180/original/1def7b9fb30832c4af4353b325d9c3af.mp4?1685645402"
+    },
+    {
+      "id": "7",
+      "name": "Aurelein Salomon",
+      "tags": [
+        "Mobile",
+        "Product",
+        "UX"
+      ],
+      "designation": "Design Director",
+      "image": "https://cdn.dribbble.com/uploads/47170/original/cd3266dde4f00a5d6a509c7375ddaecd.png?1685644840&format=webp&resize=546x680&vertical=center"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "fullname": "Ayushi",
+      "username": "ayushi16",
+      "email": "ayushisaxena1610@gmail.com",
+      "password": "$2a$10$3EMAyU0XCYWnGXRepy63TOgADFSCp0fgrkm3niNqZzq092IxeB5Iy"
+    },
+    {
+      "id": "2",
+      "fullname": "Shraddha",
+      "username": "shraddha14",
+      "email": "shraddha@gmail.com",
+      "password": "$2a$10$RxVKSKDsBHgg2vmlCT0FuOpkuWWt/A7x5HIllpjzzWSvsZ.hnuGoC"
+    },
+    {
+      "id": "3",
+      "fullname": "Neeraj",
+      "username": "neeraj30",
+      "email": "neeraj@gmail.com",
+      "password": "$2a$10$OgUZ6vki/3nySObmUs8gb.Czvd.coeNzOW9NBjPWiBihmhU5ju.pi"
+    },
+    {
+      "id": 4,
+      "fullname": "Pranjal",
+      "username": "pranjal04",
+      "email": "pranjal04@gmail.com",
+      "password": "$2a$10$gqvCLbHZvchf5cSfuk7vyeZxQGJxJH7.E93.I00KON5qx8NqyjZJ2"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Web Design",
+      "designs": [
+        {
+          "id": 1,
+          "title": "UI/UX Design for AppFlowly CRM - AI collaborative workspace",
+          "designer": {
+            "name": "Afterglow",
+            "email": "hello@afterglow.ui",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/2146089/avatars/normal/f4341ad93ec3f7993925167d4b10a96a.png?1652815707"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16894840/file/original-36d478d7e2a8889d9baa060292dced85.jpg?resize=800x600&vertical=center",
+            "https://cdn.dribbble.com/userupload/16894843/file/original-6ac42c719cbabd643a42d9ad969d6c53.mp4",
+            "https://cdn.dribbble.com/userupload/16894842/file/original-73ff1ab4cc34e32c15999937939a58a0.jpg?resize=1905x1429"
+          ],
+          "description": "We’re a design and development creative studio that specializes in simple, useful, and beautiful solutions",
+          "tags": [
+            "UX/UI",
+            "Web Design",
+            "Branding"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Chiropractor And Physical Therapy Website Design",
+          "designer": {
+            "name": "Lamaspace 🔥",
+            "email": "lamaspace@example.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/17913247/avatars/normal/0d639568ddb32e25757bb05df97ce1e2.png?1698220988"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16942985/file/original-d2e6d7b30e42aa378fcd78066ee84a22.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/16942986/file/original-83c4c78c9acfee3736df0f77c4ea37be.jpg?resize=752x"
+          ],
+          "description": "Introducing my latest concept design for a Chiropractor and Physical Therapy website. This design emphasizes clean aesthetics, easy navigation, and a calming color palette, creating a professional and welcoming user experience. Ideal for clinics aiming to enhance their digital presence. Let me know your thoughts!",
+          "tags": [
+            "Creating User-Centered Digital Experiences."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "3D Cute Minimal Little Cat",
+          "designer": {
+            "name": "Vertex Studio",
+            "email": "vertex@example.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/22086493/avatars/normal/a87bc83e63f3e460c7b7553519844d7f.jpg?1727637174"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16940859/file/original-4a84c3bf27ed1454836f58edab8b080b.jpg?resize=752x"
+          ],
+          "description": "Hi everyone! 😍🖐 Today I want to share the newest 3D character I've designed with you all. 💜 It's a cute, plump white cat! 🐈‍⬛I'd love to hear your thoughts on it.",
+          "tags": []
+        },
+        {
+          "id": 4,
+          "title": "Solwens.IO - Web Design for AI",
+          "designer": {
+            "name": "Arounda Product",
+            "email": "contact@globalcorp.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/509287/avatars/normal/f5b03edd92e7bad3827e34de0d29ae1b.png?1721816343"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16921777/file/original-7bcc894c4d039cc773b06fbe1b277e60.png?resize=752x",
+            "https://cdn.dribbble.com/userupload/16921779/file/original-db06f7c12858a3dfc30ff6515a14ef1d.png?resize=752x",
+            "https://dribbble.com/shots/popular/web-design"
+          ],
+          "description": "Hi guys✋ Step into the future of design collaboration with Solwens, where innovative technology meets seamless creativity. Our platform empowers you to effortlessly create, edit, and seamlessly integrate 3D objects into your projects, enhancing your design process like never before. Unlock limitless possibilities with our AI-powered features, allowing you to generate anything you envision with ease. Experience the next level of design freedom and collaboration with Solwens.",
+          "tags": [
+            "Product Design Agency: SaaS, B2B. UX/UI, Mobile & Web Design"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Case study recap",
+          "designer": {
+            "name": "Vlad Radchenko",
+            "email": "mark.brown@example.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/1849025/avatars/normal/f22d6de448b8c7c3190a333ffa78ef2c.png?1725565538"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16852068/file/original-b5ee824c9e4497847f6fb5d9d19e0922.png?resize=752x"
+          ],
+          "description": "A clean blog template design.",
+          "tags": [
+            "Jesus Follower. Product Designer."
+          ]
+        }
+      ],
+      "id": "0457"
+    },
+    {
+      "name": "Branding",
+      "designs": [
+        {
+          "id": 6,
+          "title": "Sport Cars🏎️🔥",
+          "designer": {
+            "name": "catalyst",
+            "email": "catalyst@example.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/1787323/avatars/normal/386abe46684b97977de4ab3d4ee954d6.jpg?1584893831"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16899681/file/original-c9a5a6486d668c016b609bf453ccd476.png?resize=320x240&vertical=center",
+            "https://cdn.dribbble.com/userupload/16899682/file/original-661bcb2c0327d7676ac35c0b3140f8bf.png?resize=752x",
+            "https://cdn.dribbble.com/userupload/16899683/file/original-0fa469907ed650e6424a4b3ef3abd7d8.png?resize=752x",
+            "https://cdn.dribbble.com/userupload/16899684/file/original-d7b187afdf39c7ee50c4b6943b95437c.png?resize=752x",
+            "https://cdn.dribbble.com/userupload/16899685/file/original-682430b73d40c3c82fc7f573751c2e6b.png?resize=752x"
+          ],
+          "description": "Need awesome illustrations and logos? just message me or email me for any project inquiries or commision works 😊",
+          "tags": [
+            "we create beautiful stuff for your projects."
+          ]
+        },
+        {
+          "id": 7,
+          "title": "F Logo/ F Lettermark/ F Letter Logo/ Abstract F Logo",
+          "designer": {
+            "name": "Khabib",
+            "email": "contact@creativeagency.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/10708072/avatars/normal/5aa0e4952a81604d6ed846c1709e0e00.jpg?1664088006"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16946506/file/original-fba527526816e1af05cc99f461917d2b.jpg?resize=752x"
+          ],
+          "description": "Abstract Letter F Logo Design for sale. Want to know more about this logo? Click here. To purchase this logo contact me through the following channels & Interested in a professional logo design or branding?",
+          "tags": [
+            "Logo & Brand Identity Designer."
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Logo Design for a Futuristic, Creative, Innovative Agency",
+          "designer": {
+            "name": "Sumon Yousof",
+            "email": "info@fittech.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/22086493/avatars/normal/a87bc83e63f3e460c7b7553519844d7f.jpg?1727637174"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16939056/file/original-a5f31f1db0b13f19d614ed1c13467013.jpg?resize=752x"
+          ],
+          "description": "Logo & Brand Identity Designer.",
+          "tags": [
+            "Logo & Brand Identity Designer."
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Elementary fox",
+          "designer": {
+            "name": "Mikhail Golovachev",
+            "email": "hello@chefsworld.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/356333/avatars/normal/69e26729f0db2bbe6abf468cdcef76b0.jpg?1600961374"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16945443/file/original-26190a7787dd1a52d9d149b0e4b7b6ee.jpg?resize=752x"
+          ],
+          "description": "",
+          "tags": []
+        },
+        {
+          "id": 10,
+          "title": "Rhibo Logo & Branding Design",
+          "designer": {
+            "name": "Muhammad Shihab",
+            "email": "support@travelmate.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/18755615/avatars/normal/ac8afeab6b30a2046b7d23139c82157f.jpg?1723301890"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16942048/file/original-63db5fa5826206a161c7d05821198c9f.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/16942053/file/original-c6e6a0bea6b95fcde7f172683822edef.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/16942058/file/original-5a24d5f0429fb19cefaf9ff359debf41.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/16942052/file/original-d580b2fe7b74815ba4d62ee355ebe097.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/16942059/file/original-03018817e6ffa3449a8d1d710b3bd19b.jpg?resize=752x"
+          ],
+          "description": "Rhibo is a fictional technology brand that represents innovation and digital solutions. Discover Rhibo and experience technology designed to enhance connectivity and make life easier. The Rhibo logo's structured, geometric typeface creates a moden and innovative impression. Its minimalistic design is both modern and versatile, emphasizing precision and reliability.",
+          "tags": []
+        }
+      ],
+      "id": "e70a"
+    },
+    {
+      "name": "Graphic Design",
+      "designs": [
+        {
+          "id": 11,
+          "title": "Carousel Visual Identity",
+          "designer": {
+            "name": "Heyo",
+            "email": "info@Heyo.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/414979/avatars/small/6a3fb4b20c29dce831a74dc7dbf591c4.png?1695741732"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16902639/file/original-8004425e6a74da6fc8f64f7e22d2c6bc.png?resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/16902640/file/original-2a4dcc33fca72fdc82fc1db1f6cbc03e.png?resize=752x"
+          ],
+          "description": "Excited to share the visual identity I worked on for Carousel. Carousel is a vehicle subscription service whose vision is for everyone to have access to a car. They believe cars symbolize freedom and everyone should have a path towards that. ",
+          "tags": []
+        },
+        {
+          "id": 12,
+          "title": "Intelly — HealthCare Mobile App Design",
+          "designer": {
+            "name": "Sigma Software Design",
+            "email": "info@designstudio.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/11803726/avatars/normal/75c8b97ca23a24302a9175366402de34.png?1656322911"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/13432795/file/original-76935627e8e3e29f6774e6652710fcc8.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/13432796/file/original-e10dcf37e04f624a3ad21189232f9541.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/13432794/file/original-ef22b41a03b0bf1918fb81aa4b3fd85d.png?resize=752x"
+          ],
+          "description": "We are open for work. Let's discuss your project!",
+          "tags": [
+            "Focus. Interact. Create."
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Evolution of a brand illustration system",
+          "designer": {
+            "name": "Mozaiq",
+            "email": "contact@eventplanners.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/4717202/avatars/normal/aae73bb228e43d2efce8c3f010f235e3.png?1718694336"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/15043216/file/original-7c1c260d8dca7dc26daad25348fb0832.png?resize=752x",
+            "https://cdn.dribbble.com/userupload/15043110/file/original-6b41f9f3567aef6c8e7d0e8965cee0df.mp4"
+          ],
+          "description": "We have introduced a new editorial illustration style to Tebra's brand kit, as part of our development of The Intake – Tebra's own media site. The animation above visualises how we took an existing, brand illustration (utilising extensive, pre-existing outline elements) and evolved it into a complex editorial style allowing for intriguing, always evolving image creation.",
+          "tags": [
+            "Creative Designs"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Colorful geometric graphic design",
+          "designer": {
+            "name": "Leo Alexandar",
+            "email": "emily.white@example.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/5674622/avatars/normal/5c3545ccb7f88b2b3b643afe26321a9e.jpg?1673892117"
+          },
+          "media": [
+            "https://cdn.dribbble.com/users/5674622/screenshots/19922920/media/d01c55e5e05256564bd28340398da40f.jpg",
+            "https://cdn.dribbble.com/users/5674622/screenshots/19922920/media/bf86bb6149be660fb33ddd40907da684.jpg"
+          ],
+          "description": "Graphic exploration with basic and colorful geometric shapes, just for fun! It's as hypnotic to do as it is to watch. You can't find ?",
+          "tags": [
+            "We Design Products, Interfaces and Brands"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Fitonist - Brand assets for the fitness application",
+          "designer": {
+            "name": "Outcrowd",
+            "email": "info@logomasters.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/702789/avatars/normal/62dc313bebbc78f08ffd3076b6228377.png?1646754829"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/14937274/file/original-041e66ecdc7a225de148a8e92b4f00c2.png?resize=752x"
+          ],
+          "description": "With design and branding, Outcrowd helps to reveal the essence of your brand and transform it into a powerful force that excels in results.",
+          "tags": [
+            "Creative branding & web design agency."
+          ]
+        }
+      ],
+      "id": "81ba"
+    },
+    {
+      "name": "Illustration",
+      "designs": [
+        {
+          "id": 16,
+          "title": "Alta in Caerula - Bidder's Edition",
+          "designer": {
+            "name": "Angie Mathot",
+            "email": "angie@example.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/3562273/avatars/normal/43144f024e2488897dd56b01c8c1cabb.jpg?1725397127g"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16897949/file/original-b7ff794d5c437eaa0f79efdf11d71f6b.jpg?crop=0x378-3000x2628&resize=400x300&vertical=center",
+            "https://cdn.dribbble.com/userupload/16644465/file/original-233a8a8cd494fcc6670ef27fe5897886.jpg?resize=1600x1600"
+          ],
+          "description": "Vector art. Bidder's edition for the Deep in the Blue collection..",
+          "tags": [
+            "Visual Designer",
+            "Vector Artist"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "Illustrations for Marketing Agency",
+          "designer": {
+            "name": "Bato",
+            "email": "info@creativemindz.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/14095940/avatars/normal/e584c0a059b6c7c4f4c23852153e5521.png?1669730203"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/15725072/file/original-db3fc113b87af753d1abef303dec3053.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/15725078/file/original-c7eb9c76680f295569e7e934bf410311.jpg?resize=752x"
+          ],
+          "description": "Want to know how much the design for your website or application will cost?Write to us and we will respond within a few hours 🕑",
+          "tags": [
+            "Your digital Agency in the analog world."
+          ]
+        },
+        {
+          "id": 18,
+          "title": "121G Branding + Illustration",
+          "designer": {
+            "name": "Mike Kus",
+            "email": "mike.brown@example.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/108/avatars/normal/e1ef1cb517fe6a1897d6bde39fabe71a.jpg?1458569856"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/7104908/file/original-991762608bbd4e1a453f70d6e3b62c7c.jpg?resize=752x"
+          ],
+          "description": "Branding, graphic design, illustration and web design for 121g.fund",
+          "tags": [
+            "Graphic/Web Design. Branding. Illustration."
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Case Study: Identity Design for Bijouterie Brand",
+          "designer": {
+            "name": "tubik.arts",
+            "email": "contact@artstudioxyz.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/1731254/avatars/normal/76437b08ae5a562ef735b6f2fd03db97.png?1495002920"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/8799664/file/original-2061f4c21ee3bb72cbc74d05acd8fb8f.png?resize=752x",
+            "https://cdn.dribbble.com/userupload/8799660/file/original-70d1af49517b2bbc57ab0c5465344ff5.mp4",
+            "https://cdn.dribbble.com/userupload/8799666/file/original-43194aabfe9dccdbe8786a627a6777e2.png?resize=752x"
+          ],
+          "description": "Also, welcome to check: • the diverse collection of tubik design case studies • the set of packaging design projects using illustration art • the big collection of theme illustrations • the best practices for designing mascots for branding and UI",
+          "tags": [
+            "Yes, we’re available. Contacts in “About”"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "How Can AI Transform Graphic Design Industry",
+          "designer": {
+            "name": "Vitaliya",
+            "email": "sam.lee@example.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/485324/avatars/normal/479e0aa76edbad47c51f159fd88e2bfa.png?1551975218"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/9519886/file/original-f87cd61bb372eebc38b2516b18cd8ec1.png?resize=752x"
+          ],
+          "description": "The use of AI in art and design has generated discussion and controversy in the art community. The graphic design sector is already experiencing a big impact from AI. Some creators and critics think that AI-generated art cannot be regarded as real art since it lacks conventional art’s human touch and emotional richness. They contend instead that AI-produced art is merely a by-product of machines and that the algorithms utilized to produce it lack the imagination and deliberateness of human artists. But there’s an opposite viewpoint. Let’s consider a few examples of what’s AI Art, how AI is affecting graphic design industry and will AI replace graphic designers.",
+          "tags": []
+        }
+      ],
+      "id": "86e0"
+    },
+    {
+      "name": "Product Design",
+      "designs": [
+        {
+          "id": 21,
+          "title": "Modic / SMM Agency",
+          "designer": {
+            "name": "Mike",
+            "email": "catalyst@example.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/13307/avatars/normal/7a44ad2618c0c55b6ed78bc4125ebfed.jpg?1727690167"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/9180197/file/original-bafcd0e6c5132c024ce82c8937fe06b2.jpg?resize=752x",
+            "https://cdn.dribbble.com/userupload/9180195/file/original-44bbb84e61aca867588ef8d09d60e33e.mp4"
+          ],
+          "description": "I started a new Instagram to share my experiments with 3D, identity, web design and more https://www.instagram.com/creativemints.design Be sure to subscribe to see many projects never published before!",
+          "tags": [
+            "Graphic design & Illustration"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "Case Study: Icons for ID Scanning Product",
+          "designer": {
+            "name": "tubik.arts",
+            "email": "contact@homedesigns.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/1731254/avatars/normal/76437b08ae5a562ef735b6f2fd03db97.png?1495002920"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16624325/file/original-bb3e99ad54ab1b50413b56add6f3f00a.png?resize=752x",
+            "https://cdn.dribbble.com/userupload/16624331/file/original-361a2dbdd991bf99be4051991b443a3c.png?resize=752x"
+          ],
+          "description": "A modern furniture design concept.",
+          "tags": [
+            "Yes, we’re available. Contacts in “About”"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Clock Widget",
+          "designer": {
+            "name": "Afshin",
+            "email": "info@ecobottle.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/1619633/avatars/normal/d2321d1d31eaf8a450642a04a428fa92.jpg?1623076528"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/15129529/file/original-1ad1ab7b08bf77fdd19c16bc897fc870.png?resize=752x"
+          ],
+          "description": "We tried to design a note widget that has a more attractive concept for display",
+          "tags": [
+            "Product Design",
+            "Eco-Friendly",
+            "Sustainability"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "Site analytics — Untitled UI",
+          "designer": {
+            "name": "Jordan Hughes®",
+            "email": "support@jordan.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/2173663/avatars/normal/c4c633361e233ae7e0b9882264c95b1a.jpg?1579775888"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/15141810/file/original-06f5407ad8dc1322b114e4a9223b8503.jpg?resize=1024x768",
+            "https://cdn.dribbble.com/userupload/15141812/file/original-e84af8ceff34e6421d6c5f237eb9b8f4.jpg?resize=1024x768&vertical=center",
+            "https://cdn.dribbble.com/userupload/15141811/file/original-ad6ee11cb6bf6259bb31e1e4c4010ae2.jpg?resize=1024x768&vertical=center"
+          ],
+          "description": "Concept for a site analytics dashboard with revenue over time and active users.",
+          "tags": [
+            "You've come to the right place ✌️"
+          ]
+        },
+        {
+          "id": 25,
+          "title": "Personal Portfolio Landing Page Design",
+          "designer": {
+            "name": "Design Monks",
+            "email": "info@designmonks.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/13839926/avatars/normal/f1b5972f6ced9acc0a034645050e4d4f.png?1668151313"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/15252974/file/original-a26e38ffdbe67d48b707c8f71bf39bf1.jpg?resize=1024x768&vertical=center",
+            "https://cdn.dribbble.com/userupload/15252973/file/original-4ce1295e4fa91b001e4b5b9792252827.jpg?resize=1024x5175&vertical=center"
+          ],
+          "description": "👋 Hello creative folks, Introducing our latest work-A revamped personal portfolio ! Combining modern aesthetics with user-friendly navigation, this redesign is precisely crafted to highlight his work and enhance visitor engagement. Ready to elevate your digital presence? Let's bring your portfolio vision to life!",
+          "tags": [
+            "Empowering Brands with Design Solutions"
+          ]
+        }
+      ],
+      "id": "98f3"
+    },
+    {
+      "name": "Mobile",
+      "designs": [
+        {
+          "id": 26,
+          "title": "Crypto Wallet App",
+          "designer": {
+            "name": "Fahim",
+            "email": "info@fahim.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/5416798/avatars/normal/d6871427542beddd35d913feac441731.png?1720974506"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16895716/file/original-724c5da540f45562ea2cc399650cc8c2.png?resize=700x525&vertical=center",
+            "https://cdn.dribbble.com/userupload/16895718/file/original-fb525f8e62a0408f576819311d2d7b2b.png?resize=752x",
+            "https://cdn.dribbble.com/userupload/16895720/file/original-db769a45b2735f42b519e5d7ef8ffe3c.png?resize=752x"
+          ],
+          "description": "Take a look at the new design concept for the Crypto Wallet App. Thanks for your likes and comments!",
+          "tags": []
+        },
+        {
+          "id": 27,
+          "title": "Nakas - Team Management Mobile App",
+          "designer": {
+            "name": "Asal Design",
+            "email": "contact@asal.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/7072315/avatars/normal/61bc9d36bd70da0e8474faa6a52b0815.png?1714202651"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16758804/file/original-23e17bb526fa691accf2135a563401dd.png?resize=1024x704",
+            "https://cdn.dribbble.com/userupload/16758805/file/original-07e9996506491f513d8eb4f83c95e968.png?resize=1024x704&vertical=center",
+            "https://cdn.dribbble.com/userupload/16758806/file/original-53514ef88b7cf06de86fb0fd33e852a1.png?resize=1024x704&vertical=center"
+          ],
+          "description": "Hey Everyone! Ready to Dive into an Exciting New Experience? 🚀 Introducing the Nakas Team Management Mobile app! This dashboard offers a clean, intuitive interface packed with features like task overviews, visual bar charts, comprehensive project lists, and insightful category distributions. Managing your team’s tasks has never been so seamless and efficient. Curious to see more? Scroll down to discover all the details and explore the full potential of Nakas.",
+          "tags": [
+            "Crafting Innovative Concepts Through Visual Solutions"
+          ]
+        },
+        {
+          "id": 28,
+          "title": "Futuristic UI Design 🚀 3D Animation",
+          "designer": {
+            "name": "Angel Villanueva",
+            "email": "hello@angel.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/235909/avatars/normal/e3d00c0def57e1adc474bad26a307ca8.png?1688591906"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16461137/file/original-738fca9250a8783043c832cd7f28fd1a.png?resize=1024x768&vertical=center",
+            "https://cdn.dribbble.com/userupload/16461142/file/large-4f6cec2ae0fc00aef95e81ed9739a41f.mp4",
+            "https://cdn.dribbble.com/userupload/16461140/file/large-3f3a150fd78541cef343a6cd16e94a21.mp4",
+            "https://cdn.dribbble.com/userupload/16461139/file/original-5d4987647c421de53e84fd10bf654772.png?resize=1024x768&vertical=center"
+          ],
+          "description": "Olivine is a semiprecious mineral of volcanic origin that is found on La Palma and has also been detected on Mars. This planet continues to offer abundant reasons to continue investigating it.",
+          "tags": [
+            "We help startups & Fortune 500 companies design products"
+          ]
+        },
+        {
+          "id": 29,
+          "title": "Responsive Web Design - Digital Agency Website",
+          "designer": {
+            "name": "Rupak Chakraborty",
+            "email": "support@rupak.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/5682439/avatars/normal/82a491ccfdef0fe4c5182040b164675e.jpg?1658842208"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/16505542/file/original-e6e59e1eaf3cf4e1af9d502a129fb2a8.jpg?resize=1024x768"
+          ],
+          "description": "Hi there, Today, I’m excited to showcase the responsive version of my latest digital agency website design! Ensuring a seamless and engaging user experience across all devices—from desktop to mobile—is crucial, and this design adapts beautifully to every screen size.",
+          "tags": [
+            "UIUX Designer, Let’s talk about your next project"
+          ]
+        },
+        {
+          "id": 30,
+          "title": "Seed Phrase App Management 🔅",
+          "designer": {
+            "name": "Taras Oliinyk",
+            "email": "contact@taras.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/14345855/avatars/normal/0d8cb5e99994245f2d860ac4bff149b8.png?1699004450"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/14866618/file/original-5da3601e013d45b6e077067fe5b1763f.png?resize=1024x769",
+            "https://cdn.dribbble.com/userupload/14866619/file/original-a14128dd87a0be8cba45208e5b22e31e.png?resize=1024x768&vertical=center",
+            "https://cdn.dribbble.com/userupload/14866617/file/original-5057da72fe6c817a553895501eab9c06.png?resize=1024x768&vertical=center"
+          ],
+          "description": "Discover the power of SeedGuard, your premier solution for safeguarding and organizing seed phrases with cutting-edge encryption and intuitive functionalities. With SeedGuard, rest assured that your digital assets are shielded and easily retrievable, bidding farewell to the worries of misplaced keys and welcoming a realm of tranquility.",
+          "tags": [
+            "Turning cool ideas to great products through UI/UX Design🌟"
+          ]
+        }
+      ],
+      "id": "bbba"
+    },
+    {
+      "name": "Typography",
+      "designs": [
+        {
+          "id": 16,
+          "title": "Kinetic typography, part IV",
+          "designer": {
+            "name": "Jordan Hughes®",
+            "email": "jordan@example.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/2173663/avatars/normal/c4c633361e233ae7e0b9882264c95b1a.jpg?1579775888"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/2712515/file/original-12a81081a197369200ed2191f3b5e0ba.png?resize=1024x768",
+            "https://cdn.dribbble.com/users/2173663/screenshots/7473763/media/3c8b38806313029efb08837e3ad77548.mp4",
+            "https://cdn.dribbble.com/users/2173663/screenshots/7473724/media/c36e245bfa0be7f9fb4abb9efe7d7ff6.mp4"
+          ],
+          "description": "Last kinetic type experiment for now. I've attached the .aep if you want to explore 🙃",
+          "tags": [
+            "You've come to the right place ✌️"
+          ]
+        },
+        {
+          "id": 32,
+          "title": "T-Shirt Graphic",
+          "designer": {
+            "name": "Lynae Hilton",
+            "email": "contact@lyane.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/63791/avatars/normal/4424e49f0da01b7b5e54bfddd4ea5611.jpg?1601907427"
+          },
+          "media": [
+            "https://cdn.dribbble.com/users/63791/screenshots/420661/media/584c6cb290c0c6eb82453990a2a65265.png?resize=400x300&vertical=center",
+            "https://cdn.dribbble.com/userupload/16156231/file/original-5a93879fa03df43f7b78dadf31d8aa69.png?resize=1024x768"
+          ],
+          "description": "In the process of customizing some type for a friends social media company. Playing with making all of the counters have a shark fin-like shape.",
+          "tags": [
+            "Welcome to my design portfolio on Dribbble"
+          ]
+        },
+        {
+          "id": 33,
+          "title": "Responsive (Software Company)",
+          "designer": {
+            "name": "Jabel App",
+            "email": "info@jabel.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/1390816/avatars/normal/1a381f21214dba0ec628cdf45a6b1219.jpg?1709580276"
+          },
+          "media": [
+            "https://cdn.dribbble.com/users/1390816/screenshots/6296489/responsive_4x.jpg?resize=640x480&vertical=center"
+          ],
+          "description": "We design for boosting your business & making feel good to the user to use this.",
+          "tags": [
+            "✅ hello@ofspace•co"
+          ]
+        },
+        {
+          "id": 34,
+          "title": "BSB/theBarrel Ad",
+          "designer": {
+            "name": "Lynae Hilton",
+            "email": "info@lynae.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/63791/avatars/normal/4424e49f0da01b7b5e54bfddd4ea5611.jpg?1601907427"
+          },
+          "media": [
+            "https://cdn.dribbble.com/users/63791/screenshots/582368/bsb-moon-fullpg-05282012lh.png?resize=400x300&vertical=center",
+            "https://cdn.dribbble.com/users/63791/screenshots/582368/attachments/45339/bsb-moon-fullpg-05282012lh.png?resize=640x480&vertical=center"
+          ],
+          "description": "Just a little ad design for a local newspaper...",
+          "tags": [
+            "Welcome to my design portfolio on Dribbble"
+          ]
+        },
+        {
+          "id": 35,
+          "title": "NEW WEBSITE!",
+          "designer": {
+            "name": "Casual Corner",
+            "email": "contact@casualcorner.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/64349/avatars/normal/d728938ccc70a9c96673528d271e97c7.jpg?1669635734"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/11329335/file/original-ac2f8eb4d84c0d7e9c6ca3f056b480da.jpg?resize=1024x769"
+          ],
+          "description": "It's been a long time coming, but the new portfolio website is live! Excited to finally share. Thank you for your time.",
+          "tags": [
+            "True-blue design, packaging & photography."
+          ]
+        }
+      ],
+      "id": "6c48"
+    },
+    {
+      "name": "Interior Design",
+      "designs": [
+        {
+          "id": 36,
+          "title": "Decoroom: Virtual Interior Design App - Library",
+          "designer": {
+            "name": "Adhiari Subekti",
+            "email": "info@Decoroom.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/2947819/avatars/normal/77111075b2e3994b889a8b243ef6fc4d.png?1621519929"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/8203119/file/original-9a261d6990bb46a7c62ab5e37e608210.png?resize=1024x768",
+            "https://cdn.dribbble.com/userupload/8203120/file/original-697dc74f4705441d385ef0953a146075.png?resize=1024x768&vertical=center",
+            "https://cdn.dribbble.com/userupload/8203121/file/original-1a26db1fdd855ade04593da19676b7ba.png?resize=1024x768&vertical=center"
+          ],
+          "description": "Please meet with Intérieur landing page concept light mode version, Intérieur is an exploration design for interior design agency with a contemporary approach",
+          "tags": [
+            "Let's collaborate, create, & make your vision a masterpiece✨"
+          ]
+        },
+        {
+          "id": 37,
+          "title": "Archdios - Collage Version",
+          "designer": {
+            "name": "Muhammad Rifqi",
+            "email": "contact@Archdios.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/4162379/avatars/normal/fd75b1a4132ae34b2055093ba12d57e4.png?1700532494"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/11823472/file/original-37202207502e479a7cadda67ce4b7d0a.png?resize=1024x768",
+            "https://cdn.dribbble.com/userupload/11823471/file/original-c01b5cf5169fca3e2dd287efd64a56e4.png?resize=640x2512&vertical=center"
+          ],
+          "description": "Hello guys 👋, This is an exploration of my latest Landing Page design from an architectural and interior design service site called Archdios. Archdios is an architectural and interior design service site that can help you create the building of your dreams.",
+          "tags": [
+            "Interior Design",
+            "Bedroom",
+            "Minimalist"
+          ]
+        },
+        {
+          "id": 38,
+          "title": "Poliform - Interior Design Minimalist Website - Main Page",
+          "designer": {
+            "name": "LAIN UI/UX",
+            "email": "info@lainuiux.com",
+            "isCompany": true,
+            "image": "https://cdn.dribbble.com/users/10154760/avatars/normal/c9a1aec864df45cdf87809d1e02783c0.png?1715586362"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1024x768",
+            "https://cdn.dribbble.com/userupload/15292045/file/original-01cba64aa095c90b4bc2b67be17056d4.jpeg?resize=1024x3442&vertical=center"
+          ],
+          "description": "Poliform is a luxury interior design and furniture brand from Italy, renowned for its high-quality and modern designs. The brand offers a wide range of products, including storage systems, kitchens, furniture, and other interior accessories. Poliform collaborates with renowned designers to create innovative and elegant collections that reflect contemporary aesthetics and high functionality. Based in Italy and available globally, Poliform appeals to those who value sophisticated design and superior craftsmanship in their living spaces.",
+          "tags": [
+            "REIMAGINE WHAT'S POSSIBLE 🔥"
+          ]
+        },
+        {
+          "id": 39,
+          "title": "CLASIKA - furniture interior landing page",
+          "designer": {
+            "name": "Azhar Dwi",
+            "email": "contact@clasika.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/6013606/avatars/normal/5ad9729950f75ecc7aea3ece0bee9b25.png?1652409911"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/9615431/file/original-e10abc6c0ef338d6730b6a7d84a5189c.png?resize=1024x768",
+            "https://cdn.dribbble.com/userupload/9615433/file/original-2853f44cac558314a84bcf005adde9b6.jpg?resize=640x448&vertical=center",
+            "https://cdn.dribbble.com/userupload/9615432/file/original-50ff02bb4ff773811ad5e70522a48548.jpg?resize=640x1933&vertical=center"
+          ],
+          "description": "Hi Folks!✨ This time I made an exploration of the landing page for a home interior furniture company website called CLASIKA. I tried to present an aesthetic appearance by combining pictures of wood according to the products sold by the company and playing a little with layout and copywriting to make it look aesthetic.",
+          "tags": [
+            "Interior Design",
+            "Office",
+            "Modern"
+          ]
+        },
+        {
+          "id": 40,
+          "title": "Coca - Interior Agency Landing Page",
+          "designer": {
+            "name": "Sans Brothers",
+            "email": "info@coca.com",
+            "isCompany": false,
+            "image": "https://cdn.dribbble.com/users/9492995/avatars/normal/f2df69c0e8bf680e1ad0389c2913c608.png?1696384511"
+          },
+          "media": [
+            "https://cdn.dribbble.com/userupload/10739154/file/original-d11883320edbdb55f3e71c83567f6afe.png?resize=1024x768&vertical=center",
+            "https://cdn.dribbble.com/userupload/10739154/file/original-d11883320edbdb55f3e71c83567f6afe.png?resize=1024x768&vertical=center",
+            "https://cdn.dribbble.com/userupload/10739156/file/original-68333b9ade54a500cea8e655d5f4a70f.png?resize=1024x5454&vertical=center"
+          ],
+          "description": "Hi folks 👋 Today we are excited to share our latest exploration design about interior agency landing page. Let's see more detail of our work below!",
+          "tags": [
+            "We make things looks great 🥳⤵"
+          ]
+        }
+      ],
+      "id": "81a6"
+    }
+  ]
+}
