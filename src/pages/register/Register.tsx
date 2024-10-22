@@ -50,7 +50,7 @@ const Register: React.FC = () => {
   };
 
   return (
-    <div className="flex w-screen h-screen">
+    <div className="flex w-screen h-screen overflow-hidden">
       <div className="max-w-[388px] h-full relative max-laptop_sm:hidden">
         <div className="h-[45%] bg-[#0c0c21] px-8 pt-[68px]">
           <img src={wixIcon} className="h-8" alt="Wix Icon" />
@@ -87,8 +87,8 @@ const Register: React.FC = () => {
           </a>
         </div>
       </div>
-      <div className="relative flex items-center w-full h-full shadow-md max-laptop_sm:justify-center">
-        <div className="ml-[100px] px-[60px] pt-[16px] w-full max-w-[536px] max-laptop_sm:ml-0">
+      <div className="relative flex items-center w-full h-full shadow-md max-laptop_sm:justify-center overflow-y-auto">
+        <div className="ml-[100px] px-[60px] py-4 w-full h-full max-w-[536px] max-laptop_sm:ml-0">
           <h2
             className="mb-6 text-2xl font-bold"
             style={{ fontFamily: "Mona-Sans" }}

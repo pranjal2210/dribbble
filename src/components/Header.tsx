@@ -152,7 +152,8 @@ const Header: React.FC = () => {
         <FiSearch className="hidden max-laptop_sm:block max-laptop:block max-laptop:text-xl" />
         {state.isAuthenticated ? (
           <div className="relative flex items-center justify-center w-12 h-12 text-xl font-medium leading-none text-white bg-gray-900 rounded-full cursor-pointer group">
-            {state?.currentUser?.fullname?.[0] || state?.currentUser?.username?.[0]}
+            {state?.currentUser?.fullname?.[0] ||
+              state?.currentUser?.username?.[0]}
 
             <div className="absolute top-full right-0 w-[320px] pt-7 -translate-y-[10px] hidden group-hover:block cursor-pointer z-10">
               <div className="border border-solid border-[#f3f3f4] rounded-2xl bg-white shadow-sm p-8 w-full flex flex-col items-center justify-center gap-3">
@@ -169,24 +170,29 @@ const Header: React.FC = () => {
                 <div className="text-[#565564] text-left w-full text-[15px] mt-4 leading-none cursor-pointer">
                   Settings
                 </div>
-                <button
-                  className="w-full h-10 font-bold text-[14px] text-white bg-[#ea4c89] cursor-pointer transition-all ease-in rounded-full shadow hover:shadow-lg mt-6"
+                <hr className="w-full h-[1px] bg-gray-800 my-4" />
+                <div
+                  className="text-[#565564] text-left w-full text-[15px] leading-none cursor-pointer"
                   onClick={handleLogout}
                 >
-                  Log Out
-                </button>
+                  Sign Out
+                </div>
               </div>
             </div>
           </div>
         ) : (
-          <div className="flex flex-row items-center gap-4 max-laptop:gap-2">
-            <button className="font-bold text-[14px] text-[#0d0c22] transition-all ease-in-out hover:text-[#ea4c89]">
-              Sign In
-            </button>
-            <button className="w-[88px] h-[40px] max-laptop:w-[56px] max-laptop:h-[32px] font-bold text-[14px] text-white bg-[#ea4c89] transition-all ease-in rounded-full shadow hover:shadow-lg">
-              Sign up
-            </button>
-          </div>
+          <>
+            <Link to="/login">
+              <button className="h-12 px-4 text-black font-semibold text-[14px] block max-laptop_sm:hidden">
+                Log in
+              </button>
+            </Link>
+            <Link to="/register">
+              <button className="flex items-center h-12 p-6 text-white bg-black rounded-full text-nowrap">
+                Sign up
+              </button>
+            </Link>
+          </>
         )}
       </div>
     </div>

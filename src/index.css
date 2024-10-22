@@ -21,8 +21,8 @@ body{
 }
 
 .slick-list{
-  padding-top: 14px;
-  padding-bottom: 30px;
+  padding-top: 14px !important;
+  padding-bottom: 30px !important;
 }
 
 @layer utilities {
